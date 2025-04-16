@@ -46,33 +46,21 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 # Backlog do produto
 
 ## Sprint 1
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [x] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [x] Exportação 2022, 2023 e 2024;
+- [x] Média do Valor FOB por NCM;
+- [x] Média do KG Liquído por URF;
+- [x] Filtro das vias, URF e Estado;
 
 ## Sprint 2
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
-      
+- [x] Dados filtrados - Power BI;
+- [x] Operações de custo e produtividade;
+- [x] Prioridade de entrega por pedido;
+   
 ## Sprint 3
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [x] Plano de organização continuo;
+- [x] Eficiência operacional;
+- [x] Otimização de processos;
+- [x] Documentação;
 
 
 # Registro das Sprints
