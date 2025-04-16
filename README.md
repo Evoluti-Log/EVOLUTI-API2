@@ -13,7 +13,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Backlog do produto](#Backlog-do-produto)
 
 # Projeto (API) 
-Descrição da demanda realizada pelo parceiro acadêmico.
+Utilizando o Comex Stat como base, vamos montar um top 10 produtos mais exportados, mostrando seus modais.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -24,7 +24,7 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 |  Team Member  | Laís Nunes           |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/la%C3%ADs-pereira-oliveira-nunes-58389b254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Lais-Nunes)        |
 |  Team Member  | Gustavo Tavares      |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-tavares-431956308/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gustavontavares)   |
 |  Team Member  | Milena Oliveira      |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)          |
-|  Team Member  | Milena Oliveira      |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)          |
+|  Team Member  | Juan Mendes      |           [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Juanmarcelg)       |
 
 
 # Objetivo do Projeto
@@ -38,10 +38,10 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+ > Slack / Jira / Excel / Slack
   
  ### Tecnologias da Informação
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+ > Power BI / 
 
 # Backlog do produto
 
@@ -89,8 +89,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|01 | 12/03/2025 | a fazer| [MVP](https://) | 
-|02|  16/04/2025| a fazer|[MVP](https://) | 
-|03|  07/05/2025| a fazer|[MVP](https://) | 
-|04|  28/05/2025 |a fazer |[MVP](https://)  | 
+|Kick Off | 12/03/2025 | Concluído | [MVP](https://) | 
+|01|  16/04/2025| Concluído|[MVP](https://) | 
+|02|  07/05/2025| a fazer|[MVP](https://) | 
+|03|  28/05/2025 |a fazer |[MVP](https://)  | 
 |Feira de Soluções|25/06/2025 |a fazer |[MVP](https://) |
