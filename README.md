@@ -13,7 +13,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Backlog do produto](#Backlog-do-produto)
 
 # Projeto (API) 
-Utilizando o Comex Stat como base, vamos mostrar as exportações feitas nos anos de 2022, 2023 e 2024, apresentando os modais, 
+Utilizando o Comex Stat como base, vamos mostrar as exportações feitas nos anos de 2022, 2023 e 2024, apresentando as vias, URF, estados, NCM, Valor FOB e Valor Líquido.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -38,10 +38,10 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- > Slack / Jira / Excel / Comex Stat
+ > Slack / Comex Stat
   
  ### Tecnologias da Informação
- > Power BI / 
+ > Power BI / Excel / Jira /Git
 
 # Backlog do produto
 
