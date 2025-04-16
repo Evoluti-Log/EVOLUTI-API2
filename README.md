@@ -13,7 +13,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Backlog do produto](#Backlog-do-produto)
 
 # Projeto (API) 
-Utilizando o Comex Stat como base, vamos montar um top 10 produtos mais exportados, mostrando seus modais.
+Utilizando o Comex Stat como base, vamos mostrar as exportações feitas nos anos de 2022, 2023 e 2024, apresentando os modais, 
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -38,7 +38,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- > Slack / Jira / Excel / Slack
+ > Slack / Jira / Excel / Comex Stat
   
  ### Tecnologias da Informação
  > Power BI / 
@@ -51,7 +51,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [ ] Esboce o layout;
 - [ ] Escolha cores e fontes;
 - [ ] Desenvolva o design;
-- [ ] Teste e revise;
+- [x] Teste e revise;
 - [ ] Documente instruções de uso;
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
@@ -73,17 +73,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [ ] Documente instruções de uso;
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
-      
-## Sprint 4
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+
 
 # Registro das Sprints
 
