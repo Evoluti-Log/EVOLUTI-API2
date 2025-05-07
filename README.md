@@ -62,6 +62,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [x] Otimização de processos;
 - [x] Documentação;
 
+# User Stories
+![User Stories](https://github.com/user-attachments/assets/a98f2cbb-3cfa-42a5-8789-9a14d004e524)
 
 # Registro das Sprints
 
