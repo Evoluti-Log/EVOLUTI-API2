@@ -13,7 +13,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Backlog do produto](#Backlog-do-produto)
 
 # Projeto (API) 
-Utilizando o Comex Stat como base, vamos mostrar as exportações feitas nos anos de 2022, 2023 e 2024, apresentando as vias, URF, estados, NCM, Valor FOB e Valor Líquido.
+Desenvolver uma API integrada ao Power BI que permita ao cliente visualizar, em tempo real, os dados de exportações do Brasil, incluindo origem dos produtos, destinos internacionais, volumes e valores exportados, facilitando a análise estratégica e a tomada de decisões comerciais, usando como referência os anos de 2022, 2023 e 2024.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
