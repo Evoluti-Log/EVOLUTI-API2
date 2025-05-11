@@ -45,25 +45,19 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 # Backlog do produto
 
-## Sprint 1
-- [x] Exportação 2022, 2023 e 2024;
-- [x] Média do Valor FOB por NCM;
-- [x] Média do KG Liquído por URF;
-- [x] Filtro das vias, URF e Estado;
-
-## Sprint 2
-- [x] Dados filtrados - Power BI;
-- [x] Operações de custo e produtividade;
-- [x] Prioridade de entrega por pedido;
-   
-## Sprint 3
-- [x] Plano de organização continuo;
-- [x] Eficiência operacional;
-- [x] Otimização de processos;
-- [x] Documentação;
-
-# User Stories
-![User Stories](https://github.com/user-attachments/assets/a98f2cbb-3cfa-42a5-8789-9a14d004e524)
+Ranking | Prioridade | User Story| Estimativa |Sprint |Requisito do parceiro |
+|------|--------|------|-------|--------|--------|
+|01| Alta |Como líder de operações logísticas, eu quero um planejamento estruturado do projeto, análise inicial dos dados e comunicação direta, garantindo um acompanhamento eficaz e entrega de resultados.| 10  | 01 | 03 |
+|02| Alta |Como gestor de operações logísticas, eu quero analisar dados iniciais e visualizar a evolução do planejamento, visando melhor controle de cada sprint. |08 |01  | 04 |
+|03| Média |Como líder de operações logísticas, eu quero trabalho com ferramentas efetivas para melhor desenvolvimento do projeto e clareza na apresentação dos resultados. |03 | 01 |02 |
+|04| Alta |Como líder de operações logísticas, eu quero uma visualização das exportações logísticas, entre 2022, 2023 e 2024, para melhor tratamento de dados e informações necessárias para cada sprint. |08 | 01 |03 |
+|05| Média |Como líder de operações logísticas, eu quero um relatório completo, contendo erros e acertos dos dados tratados, para melhor entendimento de informações sobre o desenvolvimento do projeto.|08 | 02 |02 |
+|06| Alta |Como líder de operações logísticas, eu quero visualizar dados filtrados em um modelo inicial de BI, identificando informações essenciais para o andamento do projeto. |15 | 02 |04 |
+|07| Alta |Como líder de operações logísticas, eu quero entender as operações de custos e produtividade que estão em andamento. |10 | 02 |03 |
+|08| Média |Como líder de operações logísticas, eu quero prioridade na entrega de demanda, de acordo com necessidade e urgência do pedido, visando desenvolver melhores estratégias. | 05 | 02 | 02 |
+|09| Alta |Como líder de operações logísticas, eu quero entender a eficiência operacional trabalhada, buscando possíveis melhorias e novos métodos de trabalho. |08 | 03 | 02 |
+|10| Alta |Como líder de operações logísticas, eu quero um BI funcional com informações gerais tratadas e comparação de cenários de cada sprint, buscando maior otimização dos processos e redução de custos.|12 | 03 | 05 |
+|11| Média |Como líder de operações logísticas, eu quero um plano de organização e aperfeiçoamento contínuo, para garantir melhorias e crescimento. |05 | 03 |02 |
 
 # Registro das Sprints
 
@@ -71,6 +65,6 @@ Sprint | Previsão | Status| MVP |
 |------|--------|------|-------|
 |Kick Off| 12/03/2025 |Concluído|[MVP](https://)  | 
 |01| 16/04/2025 |Concluído |[MVP](https://)  | 
-|02| 07/05/2025 |Concluído |[MVP](https://)  | 
+|02| 14/05/2025 |Concluído |[MVP](https://)  | 
 |03| 28/05/2025 |a fazer |[MVP](https://)  | 
-|Feira de Soluções| 25/06/2025 |a fazer |[MVP](https://)  | 
+|Feira de Soluções| 17/06/2025 |a fazer |[MVP](https://)  | 
