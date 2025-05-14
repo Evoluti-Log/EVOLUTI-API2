@@ -51,11 +51,11 @@ Ranking | Prioridade | User Story| Estimativa |Sprint |Requisito do parceiro |
 |02| Alta |Como gestor de operações logísticas, eu quero analisar dados iniciais e visualizar a evolução do planejamento, visando melhor controle de cada sprint. |08 |01  | 04 |
 |03| Média |Como líder de operações logísticas, eu quero trabalho com ferramentas efetivas para melhor desenvolvimento do projeto e clareza na apresentação dos resultados. |03 | 01 |02 |
 |04| Alta |Como líder de operações logísticas, eu quero uma visualização das exportações logísticas, entre 2022, 2023 e 2024, para melhor tratamento de dados e informações necessárias para cada sprint. |08 | 01 |03 |
-|06| Alta |Como líder de operações logísticas, eu quero visualizar dados filtrados no BI, identificando informações essenciais para o andamento funcional do projeto. |15 | 02 |04 |
-|07| Alta |Como líder de operações logísticas, eu quero entender as operações de custos e produtividade que foram utilizadas. |10 | 02 |03 |
-|08| Média |Como líder de operações logísticas, eu quero prioridade na visualização dos top 10 de exportação por valor agregado. | 05 | 02 | 02 |
-|10| Alta |Como líder de operações logísticas, eu quero um BI funcional com informações gerais tratadas, buscando maior abrangência.|12 | 03 | 05 |
-|11| Média |Como líder de operações logísticas, eu quero um plano de organização, para garantir melhorias e crescimento. |05 | 03 |02 | ?
+|05| Alta |Como líder de operações logísticas, eu quero visualizar dados filtrados no BI, identificando informações essenciais para o andamento funcional do projeto. |15 | 02 |04 |
+|06| Alta |Como líder de operações logísticas, eu quero entender as operações de custos e produtividade que foram utilizadas. |10 | 02 |03 |
+|07| Média |Como líder de operações logísticas, eu quero prioridade na visualização dos top 10 de exportação por valor agregado. | 05 | 02 | 02 |
+|08| Alta |Como líder de operações logísticas, eu quero um BI funcional com informações gerais tratadas, buscando maior abrangência.|12 | 03 | 05 |
+|09| Média |Como líder de operações logísticas, eu quero um plano de organização, para garantir melhorias e crescimento. |05 | 03 |02 | ?
 
 # Registro das Sprints
 
@@ -64,5 +64,5 @@ Sprint | Previsão | Status| MVP |
 |Kick Off| 12/03/2025 |Concluído|[MVP](https://)  | 
 |01| 16/04/2025 |Concluído |[MVP](https://)  | 
 |02| 14/05/2025 |Concluído |[MVP](https://)  | 
-|03| 28/05/2025 |a fazer |[MVP](https://)  | 
+|03| 04/06/2025 |a fazer |[MVP](https://)  | 
 |Feira de Soluções| 17/06/2025 |a fazer |[MVP](https://)  | 
