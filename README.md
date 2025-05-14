@@ -41,7 +41,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
  > Slack / Comex Stat
   
  ### Tecnologias da Informação
- > Power BI / Excel / Jira / Git
+ > Power BI / Excel / Jira / Git / Python 
 
 # Backlog do produto
 
