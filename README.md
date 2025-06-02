@@ -64,5 +64,5 @@ Sprint | Previsão | Status| MVP |
 |Kick Off| 12/03/2025 |Concluído|[MVP](https://fatecspgov.sharepoint.com/:v:/s/Evoluti/EfiV5UIl94BCrSGD8dK1GsgBe1rDbW1NnyrnQEA15FnCAw)  | 
 |01| 16/04/2025 |Concluído |[MVP](https://fatecspgov.sharepoint.com/:v:/s/Evoluti/EfiV5UIl94BCrSGD8dK1GsgBe1rDbW1NnyrnQEA15FnCAw)  | 
 |02| 14/05/2025 |Concluído |[MVP](https://fatecspgov.sharepoint.com/:v:/s/Evoluti/EfiV5UIl94BCrSGD8dK1GsgBe1rDbW1NnyrnQEA15FnCAw)  | 
-|03| 04/06/2025 |a fazer |[MVP](https://)  | 
+|03| 04/06/2025 |Em andamento |[MVP](https://)  | 
 |Feira de Soluções| 17/06/2025 |a fazer |[MVP](https://)  | 
