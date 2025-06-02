@@ -54,10 +54,10 @@ Ranking | Prioridade | User Story| Estimativa |Sprint |
 |05| Alta |Como líder de operações logísticas, eu quero visualizar dados filtrados no BI, identificando informações essenciais para o andamento funcional do projeto. |03 | 02 |
 |06| Alta |Como líder de operações logísticas, eu quero entender as operações de custos e produtividade que foram utilizadas. |05 | 02 |
 |07| Média |Como líder de operações logísticas, eu quero prioridade na visualização dos top 10 de exportação por valor agregado. | 05 | 02 | 
-|09| Média |Como líder de operações logísticas, eu quero uma tela que mostre o Kg liquido por país nos anos de 2022, 2023 e 2024, especificando a URF, os produtos exportados e o modal utilizado. |08 | 03 |
-|09| Média |Como líder de operações logísticas, eu quero um gráfico mostrando o valor Valor FOB por mês e uma média de valor FOB por ano. |08 | 03 |
-|08| Alta |Como líder de operações logísticas, eu quero um BI funcional com informações gerais tratadas, buscando maior abrangência.|08 | 03 |
-|09| Média |Como líder de operações logísticas, eu quero um plano funcional que garanta melhorias e crescimento. |08 | 03 |
+|08| Média |Como líder de operações logísticas, eu quero uma tela que mostre o Kg liquido por país nos anos de 2022, 2023 e 2024, especificando a URF, os produtos exportados e o modal utilizado. |08 | 02 |
+|09| Média |Como líder de operações logísticas, eu quero um gráfico mostrando o valor Valor FOB por mês e uma média de valor FOB por ano. |08 | 02 |
+|10| Alta |Como líder de operações logísticas, eu quero um BI funcional com informações gerais tratadas, buscando maior abrangência.|08 | 03 |
+|11| Média |Como líder de operações logísticas, eu quero um plano funcional que garanta melhorias e crescimento. |08 | 03 |
 
 
 # Registro das Sprints
