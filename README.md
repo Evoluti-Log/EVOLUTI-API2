@@ -59,7 +59,7 @@ Ranking | Prioridade | User Story| Estimativa |Sprint |
 |10| Média |Como líder de operações logísticas, eu quero um gráfico com a soma de KG Liquido e a contagem de mês por ano. |08 | 03 |
 |11| Média |Como líder de operações logísticas, eu quero um visualizar o top 5 de valor agregado.  |05 | 03 |
 |12| Média |Como líder de operações logísticas, eu quero um gráfico contendo os meses subsequentes de cada ano. |08 | 03 |
-|13| Média |Como líder de operações logísticas, eu quero um gráfico demonstrandoos produtos exportados de cada país. |08 | 03 |
+|13| Média |Como líder de operações logísticas, eu quero um gráfico demonstrando os produtos exportados de cada país. |08 | 03 |
 |14| Alta |Como líder de operações logísticas, eu quero um BI funcional com informações gerais tratadas, buscando maior abrangência.|05 | 03 |
 |15| Média |Como líder de operações logísticas, eu quero um plano funcional que garanta melhorias e crescimento. |08 | 03 |
 
