@@ -56,8 +56,12 @@ Ranking | Prioridade | User Story| Estimativa |Sprint |
 |07| Média |Como líder de operações logísticas, eu quero prioridade na visualização dos top 10 de exportação por valor agregado. | 05 | 02 | 
 |08| Média |Como líder de operações logísticas, eu quero uma tela que mostre o Kg liquido por país nos anos de 2022, 2023 e 2024, especificando a URF, os produtos exportados e o modal utilizado. |08 | 02 |
 |09| Média |Como líder de operações logísticas, eu quero um gráfico mostrando o valor Valor FOB por mês e uma média de valor FOB por ano. |08 | 02 |
-|10| Alta |Como líder de operações logísticas, eu quero um BI funcional com informações gerais tratadas, buscando maior abrangência.|08 | 03 |
-|11| Média |Como líder de operações logísticas, eu quero um plano funcional que garanta melhorias e crescimento. |08 | 03 |
+|10| Média |Como líder de operações logísticas, eu quero um gráfico com a soma de KG Liquido e a contagem de mês por ano. |08 | 03 |
+|11| Média |Como líder de operações logísticas, eu quero um visualizar o top 5 de valor agregado.  |05 | 03 |
+|12| Média |Como líder de operações logísticas, eu quero um gráfico contendo os meses subsequentes de cada ano. |08 | 03 |
+|13| Média |Como líder de operações logísticas, eu quero um gráfico demonstrandoos produtos exportados de cada país. |08 | 02 |
+|14| Alta |Como líder de operações logísticas, eu quero um BI funcional com informações gerais tratadas, buscando maior abrangência.|05 | 03 |
+|15| Média |Como líder de operações logísticas, eu quero um plano funcional que garanta melhorias e crescimento. |08 | 03 |
 
 
 # Registro das Sprints
@@ -67,5 +71,5 @@ Sprint | Previsão | Status| MVP |
 |Kick Off| 12/03/2025 |Concluído|[MVP](https://fatecspgov.sharepoint.com/:v:/s/Evoluti/EfiV5UIl94BCrSGD8dK1GsgBe1rDbW1NnyrnQEA15FnCAw)  | 
 |01| 16/04/2025 |Concluído |[MVP](https://fatecspgov.sharepoint.com/:v:/s/Evoluti/EfiV5UIl94BCrSGD8dK1GsgBe1rDbW1NnyrnQEA15FnCAw)  | 
 |02| 14/05/2025 |Concluído |[MVP](https://fatecspgov.sharepoint.com/:v:/s/Evoluti/EfiV5UIl94BCrSGD8dK1GsgBe1rDbW1NnyrnQEA15FnCAw)  | 
-|03| 04/06/2025 |Em andamento |[MVP](https://)  | 
-|Feira de Soluções| 17/06/2025 |a fazer |[MVP](https://)  | 
+|03| 04/06/2025 |Concluído |[MVP](https://)  | 
+|Feira de Soluções| 17/06/2025 |Em andamento |[MVP](https://)  | 
